@@ -1,0 +1,970 @@
+.r1{
+  margin-left: -41px;
+  margin-top: 5px;
+}
+.logo
+{
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    margin-left: 38%;
+    margin-top: -70%;
+    border-radius: 50%;
+    border: solid 1px #707070;
+    background-color: #ffffff;
+}
+.e {
+    position: absolute;
+    margin-left: 16px;
+    margin-top: -5px;
+    font-family: Yu Gothic UI;
+    font-size: 54px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.51;
+    letter-spacing: normal;
+    text-align: left;
+    color: #eb2929;
+  }
+  .Find-the-best-restaurants-cafs-and-bars {
+    position: absolute;
+    width: 754px;
+    height: 51px;
+    margin-left: -131px;
+    margin-top: 112px;
+    font-family: Yu Gothic UI;
+    font-size: 22px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .select{
+    margin-left: 91px;
+    margin-top: -3px;
+    width: 285px;
+    height: 30px;
+  font-family:Yu Gothic UI;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+  }
+  .s1{
+      position: absolute;
+    margin-left: -222px;
+    margin-top: 178px;
+  }
+  .search{
+    position: absolute;
+    width: 384px;
+    height: 26px;
+    margin: 175px 210px 0 -8px;
+    background-color: #ffffff;
+  }
+
+  .form-control {
+    display: block;
+    width: 285px;
+    height: 26px;
+    margin-top: 245px;
+    margin-left: -131px;
+    padding: -0.625rem .75rem !important;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.Quick-Searches {
+  margin-left: 28px;
+  margin-top: 5px;
+    font-family: Yu Gothic UI;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .Discover-restaurants-by-type-of-meal {
+    margin-left: 28px;
+   margin-top: 5px;
+    font-family: Yu Gothic UI;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }
+  .Rectangle-5 {
+    display: inline-block;
+    width: 413px;
+    height: 160px;
+    margin-left: 58px;
+    margin-top: 10p;
+    padding-left: 0px;
+   margin-bottom: 10px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+  }
+  .cont{
+      margin-left: 185px;
+      margin-top: 31px;
+  }
+  
+  .Breakfast {
+    position: absolute;
+    width: 88px;
+    height: 25px;
+    margin-left: 185px;
+    margin-top: -145px;
+    font-family: Yu Gothic UI;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+   }
+  .Start-your-day-with-exclusive-breakfast-options {
+    position: absolute;
+    width: 137px;
+    height: 62px;
+    margin-left: 184px;
+    margin-top: -112px;
+    font-family: Yu Gothic UI;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }
+  
+  li {
+    list-style: none;
+    background-color: white;
+    background-image: linear-gradient(90deg, red 20px, white 10px);
+    padding: 10px 15px 10px 25px;
+    border: 1px solid #CCC;
+    box-shadow: inset 1px 1px 0 rgba(255, 255, 255, 0.5);
+    margin-bottom: 5px;
+    width: 391px;
+    box-sizing: border-box;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+#query {
+  width: 400px;
+  height: 35px;
+  box-sizing: border-box;
+  font-size: 19px;
+  padding: 5px;
+  font-family: calibri light;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 3px;
+  background-color: #ffffff;
+  color: #936f6f;
+  padding-left: 29px;
+  margin-top: 173px;
+}
+
+#notebooks {
+    position: absolute;
+    left: 38%;
+    width: 350px;
+    border-radius: 5px;
+    max-height: 450px;
+}
+
+ul {
+    margin: 0 auto;
+    background-color: white;
+    padding: 0;
+    width:402px;
+    max-height: 390px;
+    overflow-y: auto;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 5px 5px 0 5px;
+    border-left: none;
+    border-right: none;
+}
+
+#notebooks span {
+    display: block;
+    position: absolute;
+    background: #FFD32E;
+    bottom: -35px;
+    left: -1px;
+    width: 360px;
+    border-radius: 0 0 5px 5px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    box-shadow: inset 1px 1px rgba(255, 255, 255, 0.5);
+}
+@media (min-width: 576px)
+{
+
+  .r1{
+    margin-left: 3px;
+    margin-top: 5px;
+  }
+  .logo
+{
+    position: absolute;
+    width: 90px;
+    height: 90px;
+    margin-left: 33%;
+    margin-top: -56%;
+    border-radius: 50%;
+    border: solid 1px #707070;
+    background-color: #ffffff;
+}
+
+#query {
+  width: 400px;
+    height: 33px;
+    box-sizing: border-box;
+    font-size: 19px;
+    padding: 5px;
+    font-family: calibri light;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    background-color: #ffffff;
+    color: #936f6f;
+    padding-left: 29px;
+    margin-top: 228px;
+    margin-left: -171px;
+}
+
+.e {
+    position: absolute;
+    margin-left: 22px;
+    margin-top: -5px;
+    font-family: Yu Gothic UI;
+    font-size: 62px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.51;
+    letter-spacing: normal;
+    text-align: left;
+    color: #eb2929;
+  }
+  .Find-the-best-restaurants-cafs-and-bars {
+    position: absolute;
+    width: 754px;
+    height: 51px;
+    margin-left: -177px;
+    margin-top: 110px;
+    font-family: Yu Gothic UI;
+    font-size: 28px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .select{
+  width: 189px;
+  height: 35px;
+  margin-left: 0px;
+  font-family: Yu Gothic UI;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+  }
+  .s1{
+      position: absolute;
+    margin-left: -171px;
+    margin-top: 176px;
+  }
+  .search{
+    position: absolute;
+    width: 384px;
+    height: 35px;
+    margin: 233px 210px 0 -171px;
+    background-color: #ffffff;
+  }
+
+  .form-control {
+    display: block;
+    width: 276px;
+    height: 35px;
+    margin-top: 176px;
+    margin-left: 34px;
+    padding: -0.625rem .75rem !important;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.Quick-Searches {
+  margin-left: 71px;
+  margin-top: 5px;
+    font-family: Yu Gothic UI;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .Discover-restaurants-by-type-of-meal {
+    margin-left: 71px;
+    margin-top: 5px;
+    font-family: Yu Gothic UI;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }
+  .Rectangle-5 {
+    display: inline-block;
+    width: 413px;
+    height: 160px;
+    margin-left: 58px;
+    margin-top: 10p;
+    padding-left: 0px;
+   margin-bottom: 10px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+  }
+  .cont{
+      margin-left: 94px;
+      margin-top: 31px;
+  }
+  
+  .Breakfast {
+    position: absolute;
+    width: 88px;
+    height: 25px;
+    margin-left: 185px;
+    margin-top: -145px;
+    font-family: Yu Gothic UI;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+  .Start-your-day-with-exclusive-breakfast-options {
+    position: absolute;
+    width: 137px;
+    height: 62px;
+    margin-left: 184px;
+    margin-top: -112px;
+    font-family: Yu Gothic UI;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }
+}
+
+
+@media (min-width: 768px) 
+{
+  .r1{
+    margin-left: 1px;
+    margin-top: 5px;
+  }
+  .logo
+  {
+      position: absolute;
+      width: 100px;
+      height: 100px;
+      margin-left: 32%;
+       margin-top: -40%;
+      border-radius: 50%;
+      border: solid 1px #707070;
+      background-color: #ffffff;
+  }
+  .e {
+      position: absolute;
+      margin-left: 20px;
+      margin-top: -12px;
+      font-family: Yu Gothic UI;
+      font-size: 70px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.51;
+      letter-spacing: normal;
+      text-align: left;
+      color: #eb2929;
+    }
+
+    #query {
+      width: 400px;
+      height: 35px;
+      box-sizing: border-box;
+      font-size: 19px;
+      padding: 5px;
+      font-family: calibri light;
+      border: 1px solid rgba(0, 0, 0, 0.2);
+      border-radius: 3px;
+      background-color: #ffffff;
+      color: #936f6f;
+      padding-left: 29px;
+      margin-top: 175px;
+    margin-left: 10px;
+    }
+
+    .Find-the-best-restaurants-cafs-and-bars {
+      position: absolute;
+      width: 754px;
+      height: 51px;
+      margin-left: -224px;
+      margin-top: 112px;
+      font-family: Yu Gothic UI;
+      font-size: 36px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.53;
+      letter-spacing: normal;
+      text-align: left;
+      color: #ffffff;
+    }
+    .select{
+      margin-left: 0px;
+    font-family: Yu Gothic UI;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    }
+    .s1{
+        position: absolute;
+      margin-left: -222px;
+      margin-top: 178px;
+    }
+    .search{
+      position: absolute;
+      width: 384px;
+      height: 26px;
+      margin: 177px 210px 0 4px;
+      background-color: #ffffff;
+    }
+  
+    .form-control {
+      display: block;
+    width: 364px;
+    height: 35px;
+    margin-top: 176px;
+    margin-left: 34px;
+      padding: -0.625rem .75rem !important;
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #212529;
+      background-color: #fff;
+      background-clip: padding-box;
+      border: 1px solid #ced4da;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+      border-radius: .25rem;
+      transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  }
+  .Quick-Searches {
+    margin-left: 20px;
+    margin-top: 5px;
+      font-family: Yu Gothic UI;
+      font-size: 30px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.53;
+      letter-spacing: normal;
+      text-align: left;
+      color: #192f60;
+    }
+    .Discover-restaurants-by-type-of-meal {
+      margin-left: 20px;
+      margin-top: 5px;
+      font-family: Yu Gothic UI;
+      font-size: 18px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.5;
+      letter-spacing: normal;
+      text-align: left;
+      color: #8c96ab;
+    }
+    .Rectangle-5 {
+      display: inline-block;
+      width: 360px;
+      height: 160px;
+      margin-left: 10px;
+      margin-top: 10p;
+     margin-bottom: 10px;
+      box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+      background-color: #ffffff;
+    }
+    .cont{
+        margin-left: 185px;
+        margin-top: 31px;
+    }
+    
+    .Breakfast {
+      position: absolute;
+      width: 88px;
+      height: 25px;
+      margin-left: 185px;
+      margin-top: -145px;
+      font-family: Yu Gothic UI;
+      font-size: 18px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.5;
+      letter-spacing: normal;
+      text-align: left;
+      color: #192f60;
+  }
+    .Start-your-day-with-exclusive-breakfast-options {
+      position: absolute;
+      width: 137px;
+      height: 62px;
+      margin-left: 184px;
+      margin-top: -112px;
+      font-family: Yu Gothic UI;
+      font-size: 14px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.5;
+      letter-spacing: normal;
+      text-align: left;
+      color: #8c96ab;
+    } 
+}
+  
+
+@media (min-width: 992px) 
+{
+  .r1{
+    margin-left: 3px;
+    margin-top: 5px;
+  }
+  .logo
+  {
+      position: absolute;
+      width: 100px;
+      height: 100px;
+      margin-left: 37%;
+      margin-top: -30%;
+      border-radius: 50%;
+      border: solid 1px #707070;
+      background-color: #ffffff;
+  }
+  .e {
+      position: absolute;
+      margin-left: 26px;
+      margin-top: -5px;
+      font-family: Yu Gothic UI;
+      font-size: 70px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.51;
+      letter-spacing: normal;
+      text-align: left;
+      color: #eb2929;
+    }
+    .Find-the-best-restaurants-cafs-and-bars {
+      position: absolute;
+      width: 754px;
+      height: 51px;
+      margin-left: -224px;
+      margin-top: 112px;
+      font-family: Yu Gothic UI;
+      font-size: 36px;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.53;
+      letter-spacing: normal;
+      text-align: left;
+      color: #ffffff;
+    }
+    #query {
+      width: 400px;
+      height: 35px;
+      box-sizing: border-box;
+      font-size: 19px;
+      padding: 5px;
+      font-family: calibri light;
+      border: 1px solid rgba(0, 0, 0, 0.2);
+      border-radius: 3px;
+      background-color: #ffffff;
+      color: #936f6f;
+      padding-left: 29px;
+      margin-top: 173px;
+    }
+    .select{
+      margin-left: 0px;
+    font-family: Yu Gothic UI;
+    font-size: 15px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #636f88;
+    }
+    .s1{
+        position: absolute;
+      margin-left: -222px;
+      margin-top: 178px;
+    }
+    .search{
+      position: absolute;
+      width: 384px;
+      height: 26px;
+      margin: 177px 210px 0 4px;
+      background-color: #ffffff;
+    }
+  
+    .form-control {
+      display: block;
+    width: 400px;
+    height: 35px;
+    margin-top: 176px;
+    margin-left: 3px;
+      padding: -0.625rem .75rem !important;
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+      color: #212529;
+      background-color: #fff;
+      background-clip: padding-box;
+      border: 1px solid #ced4da;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+      border-radius: .25rem;
+      transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  }
+  .Quick-Searches {
+     margin-left: 71px;
+   margin-top: 5px;
+      font-family: Yu Gothic UI;
+      font-size: 30px;
+      font-weight: bold;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.53;
+      letter-spacing: normal;
+      text-align: left;
+      color: #192f60;
+    }
+    .Discover-restaurants-by-type-of-meal {
+      margin-left: 71px;
+      margin-top: 5px;
+      font-family: Yu Gothic UI;
+      font-size: 18px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.5;
+      letter-spacing: normal;
+      text-align: left;
+      color: #8c96ab;
+    }
+    .Rectangle-5 {
+      display: inline-block;
+      width: 400px;
+      height: 160px;
+      margin-left: 10px;
+      margin-top: 10p;
+     margin-bottom: 10px;
+      box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+      background-color: #ffffff;
+    }
+    .cont{
+        margin-left: 185px;
+        margin-top: 31px;
+    }
+    
+    .Breakfast {
+      position: absolute;
+    width: 88px;
+    height: 25px;
+    margin-left: 185px;
+    margin-top: -145px;
+    font-family: Yu Gothic UI;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+    .Start-your-day-with-exclusive-breakfast-options {
+      position: absolute;
+      width: 137px;
+      height: 62px;
+      margin-left: 184px;
+      margin-top: -112px;
+      font-family: Yu Gothic UI;
+      font-size: 14px;
+      font-weight: normal;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 1.5;
+      letter-spacing: normal;
+      text-align: left;
+      color: #8c96ab;
+    }
+  
+}
+@media (min-width: 1200px)
+{
+  .r1{
+    margin-left: 3px;
+    margin-top: 5px;
+  }
+.logo
+{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin-left: 45%;
+    margin-top: -22%;
+    border-radius: 50%;
+    border: solid 1px #707070;
+    background-color: #ffffff;
+}
+.e {
+  position: absolute;
+  margin-left: 16px;
+  margin-top: -13px;
+    font-family: Yu Gothic UI;
+    font-size: 70px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.51;
+    letter-spacing: normal;
+    text-align: left;
+    color: #eb2929;
+  }
+  #query {
+    width: 400px;
+    height: 35px;
+    box-sizing: border-box;
+    font-size: 19px;
+    padding: 5px;
+    font-family: calibri light;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 3px;
+    background-color: #ffffff;
+    color: #936f6f;
+    padding-left: 29px;
+    margin-top: 173px;
+  }
+  .Find-the-best-restaurants-cafs-and-bars {
+    position: absolute;
+    width: 754px;
+    height: 51px;
+    margin-left: -224px;
+    margin-top: 112px;
+    font-family: Yu Gothic UI;
+    font-size: 36px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .select{
+  
+  margin-left: 0px;
+  font-family: Yu Gothic UI;
+  font-size: 15px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.53;
+  letter-spacing: normal;
+  text-align: left;
+  color: #636f88;
+  }
+  .s1{
+      position: absolute;
+    margin-left: -222px;
+    margin-top: 178px;
+  }
+  .search{
+    position: absolute;
+    width: 384px;
+    height: 26px;
+    margin: 177px 210px 0 4px;
+    background-color: #ffffff;
+  }
+
+  .form-control {
+    display: block;
+    width: 402px;
+    height: 35px;
+    margin-top: 178px;
+    padding: -0.625rem .75rem !important;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.Quick-Searches {
+   margin-left: 71px;
+   margin-top: 5px;
+    font-family: Yu Gothic UI;
+    font-size: 30px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.53;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+  }
+  .Discover-restaurants-by-type-of-meal {
+    margin-left: 71px;
+    margin-top: 5px;
+    font-family: Yu Gothic UI;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }
+  .Rectangle-5 {
+    display: inline-block;
+    width: 413px;
+    height: 160px;
+    margin-left: 58px;
+    margin-top: 10p;
+    padding-left: 0px;
+   margin-bottom: 10px;
+    box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+  }
+  .cont{
+      margin-left: 174px;
+      margin-top: 31px;
+  }
+  
+  .Breakfast {
+    position: absolute;
+    width: 88px;
+    height: 25px;
+    margin-left: 185px;
+    margin-top: -145px;
+    font-family: Yu Gothic UI;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #192f60;
+}
+  .Start-your-day-with-exclusive-breakfast-options {
+    position: absolute;
+    width: 137px;
+    height: 62px;
+    margin-left: 184px;
+    margin-top: -112px;
+    font-family: Yu Gothic UI;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #8c96ab;
+  }
+  
+}
+
+
